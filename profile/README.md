@@ -12,3 +12,5 @@ Gerard Braad's development environments
 ### Debian
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/debian)
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=636945920)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/debian)
