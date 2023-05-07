@@ -3,6 +3,10 @@ Gerard Braad's development environments
 
 !["Prompt"](https://raw.githubusercontent.com/gbraad/assets/gh-pages/icons/prompt-icon-64.png)
 
+These are my instant development environments that I use for daily coding. This was originally
+based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) that got pulled over 1M+ times. Now I focus on a reusable environment that can either be used from the comnmand line, with Vim, or easily allows you to use VSCode.
+
+
 ### Fedora
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora)
