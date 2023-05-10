@@ -6,6 +6,7 @@ Gerard Braad's instant development environments
 These are my instant development environments that I use for daily coding. This was originally
 based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) that got pulled over 1M+ times, and here is the article that described [how to setup a powerful self-hosted IDE in the cloud](https://gbraad.nl/blog/setting-up-a-powerful-self-hosted-ide-in-the-cloud.html). Now I focus on a reusable environment that can either be used from the comnmand line, as a container, online deployment, editing with Vim, or easily allows you to use VSCode. But not limited to direct access, as it includes Tailscale to allow remote connectivity and exposing services to other machines in the same tailnet or on the public internet.
 
+---
 
 ### [Fedora](https://fedora.devenv.gbraad.nl)
 
@@ -14,11 +15,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/fedora)
   * `devenv` => `defenv`, `defsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
-
-### CentOS
-
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/centos)
-
+---
 
 ### [Debian](https://debian.devenv.gbraad.nl)
 
@@ -28,9 +25,17 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `devenv` => `debenv`, `debsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
+---
+
+
 ### Alpine
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/alpine)
+
+
+### CentOS
+
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/centos)
 
 
 ### Ubuntu
