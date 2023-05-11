@@ -8,7 +8,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ---
 
-### [Fedora](https://github.com/gbraad-devenv/fedora) [⭧](https://fedora.devenv.gbraad.nl)
+### [Fedora](https://github.com/gbraad-devenv/fedora) [(template)](https://github.com/gbraad-devenv/fedora-template) [⭧](https://fedora.devenv.gbraad.nl)
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora)
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?machine=standardLinux32gb&repo=61788628&ref=main&location=SouthEastAsia&devcontainer_path=.devcontainer%2Fdevcontainer.json)
@@ -17,7 +17,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ---
 
-### [Debian](https://github.com/gbraad-devenv/debian) [⭧](https://debian.devenv.gbraad.nl)
+### [Debian](https://github.com/gbraad-devenv/debian) [(template)](https://github.com/gbraad-devenv/debian-template) [⭧](https://debian.devenv.gbraad.nl)
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/debian)
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=636945920)
@@ -28,19 +28,19 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 ---
 
 
-### [Alpine](https://github.com/gbraad-devenv/alpine)
+### [Alpine](https://github.com/gbraad-devenv/alpine) [(template)](https://github.com/gbraad-devenv/alpine-template)
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/alpine)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/alpine)
 
 
-### [CentOS](https://github.com/gbraad-devenv/centos)
+### [CentOS](https://github.com/gbraad-devenv/centos) [(template)](https://github.com/gbraad-devenv/dentos-template)
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/centos)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/centos)
 
 
-### [Ubuntu](https://github.com/gbraad-devenv/ubuntu)
+### [Ubuntu](https://github.com/gbraad-devenv/ubuntu) [(template)](https://github.com/gbraad-devenv/ubuntu-template)
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubuntu)
