@@ -28,32 +28,32 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/almalinux)
-  * `almenv` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `almenv`, `almsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
 ### [[Alpine](https://github.com/gbraad-devenv/alpine)]([template](https://github.com/gbraad-devenv/alpine-template)) 13.8
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/alpine)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/alpine)
-  * `alpenv` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `alpenv`, `alpsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
 ### [[CentOS](https://github.com/gbraad-devenv/centos)]([template](https://github.com/gbraad-devenv/centos-template)) Stream 9
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/centos)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/centos)
-  * `cenenv` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `cenenv`, `censys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
 ### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)]([template](https://github.com/gbraad-devenv/opensuse-template)) 15.2
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/opensuse)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/opensuse)
-  * `susenv` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `susenv`, `sussys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
 ### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)]([template](https://github.com/gbraad-devenv/ubuntu-template)) Jammy
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubuntu)
-  * `ubuenv` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `ubuenv`, `ubusys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
