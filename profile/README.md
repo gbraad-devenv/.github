@@ -31,7 +31,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `almenv`, `almsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
-### [[Alpine](https://github.com/gbraad-devenv/alpine)]([template](https://github.com/gbraad-devenv/alpine-template)) 13.8
+### [[Alpine](https://github.com/gbraad-devenv/alpine)]([template](https://github.com/gbraad-devenv/alpine-template)) 3.18
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/alpine)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/alpine)
