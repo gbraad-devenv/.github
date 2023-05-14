@@ -52,6 +52,13 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `susenv`, `sussys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
+### [[RockyLinux](https://github.com/gbraad-devenv/rockylinux)]([template](https://github.com/gbraad-devenv/rockylinux-template)) 9
+
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/rockylinux)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/rockylinux)
+  * `rocenv`, `rocsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+
+
 ### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)]([template](https://github.com/gbraad-devenv/ubuntu-template)) Jammy
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
