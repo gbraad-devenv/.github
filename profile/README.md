@@ -64,3 +64,10 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubuntu)
   * `ubuenv`, `ubusys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+
+---
+
+Consider sponsoring me:
+
+| [github](https://github.com/sponsors/gbraad) | [patreon](https://patreon.com/gbraad) | [liberapay](https://liberapay.com/gbraad) | [paypal](https://paypal.me/gbraad) | [buymeacoffee](https://www.buymeacoffee.com/gbraad) |
+|--|--|--|--|--|
