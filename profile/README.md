@@ -31,6 +31,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/almalinux)
   * `almenv`, `almsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `devbox` => `distrobox create -i ghcr.io/gbraad-devenv/almalinux/base:9 dexbox-almalinux9`
 
 
 ### [[Alpine](https://github.com/gbraad-devenv/alpine)]([template](https://github.com/gbraad-devenv/alpine-template)) 3.18
@@ -38,6 +39,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/alpine)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/alpine)
   * `alpenv`, `alpsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `devbox` => `distrobox create -i ghcr.io/gbraad-devenv/alpine/base:3.18 dexbox-alpine318`
 
 
 ### [[CentOS](https://github.com/gbraad-devenv/centos)]([template](https://github.com/gbraad-devenv/centos-template)) Stream 9
@@ -53,6 +55,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/opensuse)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/opensuse)
   * `susenv`, `sussys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `devbox` => `distrobox create -i ghcr.io/gbraad-devenv/opensuse/base:15.2 dexbox-opensuse152`
 
 
 ### [[RockyLinux](https://github.com/gbraad-devenv/rockylinux)]([template](https://github.com/gbraad-devenv/rockylinux-template)) 9
@@ -60,6 +63,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/rockylinux)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/rockylinux)
   * `rocenv`, `rocsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `devbox` => `distrobox create -i ghcr.io/gbraad-devenv/rockylinux/base:9 dexbox-rockylinux9`
 
 
 ### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)]([template](https://github.com/gbraad-devenv/ubuntu-template)) 22.04/Jammy (LTS)
