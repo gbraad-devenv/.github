@@ -23,7 +23,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=636945920)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/debian)
   * `devenv` => `debenv`, `debsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
-  * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/debian/base:bullseye devbox-debian`
+  * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/debian/toolbox:bullseye devbox-debian`
 
 
 ### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)]([template](https://github.com/gbraad-devenv/almalinux-template)) 9
