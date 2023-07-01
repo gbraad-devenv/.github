@@ -61,7 +61,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/centos/base:stream9 devbox-centos`
 
 
-### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)]([template](https://github.com/gbraad-devenv/opensuse-template)) 15.2
+### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)]([template](https://github.com/gbraad-devenv/opensuse-template)) 15.5
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/opensuse)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/opensuse)
@@ -69,7 +69,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/opensuse/base:15.2 devbox-opensuse`
 
 
-### [[Tumbleweed](https://github.com/gbraad-devenv/opensuse)]([template](https://github.com/gbraad-devenv/opensuse-template)) latest
+### [[Tumbleweed](https://github.com/gbraad-devenv/opensuse)]([template](https://github.com/gbraad-devenv/tumbleweed-template)) latest
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/tumbleweed)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/tumbleweed)
