@@ -46,10 +46,10 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/alpine/base:3.18 devbox-alpine`
 
 
-### [[UBI](https://github.com/gbraad-devenv/ubi)]([template](https://github.com/gbraad-devenv/ubi-template)) 9
+### [[UBI](https://github.com/gbraad-devenv/ubi9)]([template](https://github.com/gbraad-devenv/ubi9-template)) 9
 
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi)
-  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi)
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9)
   * `ubienv`, `ubisys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
