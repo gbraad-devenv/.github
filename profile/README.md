@@ -19,6 +19,11 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * WSL2 [`.\import-devsys.ps1`](https://github.com/gbraad-devenv/wsl2-import/blob/main/import-devsys.ps1) https://github.com/gbraad-devenv/fedora/releases/download/38/devsys-fedora-rootfs-amd64.tar.gz
 
 
+### Fedora-based [[Jupyter](https://github.com/gbraad-devenv/jupyter-fedora)]([template](https://github.com/gbraad-devenv/jupyter-fedora-template)) notebooks
+
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/jupyter-fedora)
+
+
 ### [[Debian](https://github.com/gbraad-devenv/debian)]([template](https://github.com/gbraad-devenv/debian-template)) 12/Bookworm
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/debian) (b0rked?)
