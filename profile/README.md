@@ -67,7 +67,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi8-gotoolset)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi8-gotoolset)
   * `goenv`, `gosys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
-  * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/ubi8-gotoolset/base:1.20 devbox-go`
+  * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/ubi8-gotoolset/base:1.20 --init --name devbox-go`
 
 
 ### [[UBI](https://github.com/gbraad-devenv/ubi9)]([template](https://github.com/gbraad-devenv/ubi9-template)) 9
