@@ -8,12 +8,18 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ---
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora)]([template](https://github.com/gbraad-devenv/fedora-template)) 39
+### [[Fedora](https://github.com/gbraad-devenv/fedora)]([template](https://github.com/gbraad-devenv/fedora-template)) 40
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora)
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?machine=standardLinux32gb&repo=61788628&ref=main&location=SouthEastAsia&devcontainer_path=.devcontainer%2Fdevcontainer.json)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/fedora)
   * `devenv` => `defenv`, `defsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:40 $HOSTNAME-devbox`
+
+
+### [[Fedora](https://github.com/gbraad-devenv/fedora)]([template](https://github.com/gbraad-devenv/fedora-template/tree/39)) 39
+
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora/tree/39)
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:39 $HOSTNAME-devbox`
 
 
