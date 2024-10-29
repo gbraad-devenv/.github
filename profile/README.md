@@ -60,7 +60,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create --init -i ghcr.io/gbraad-devenv/debian/toolbox:bullseye $HOSTNAME-debbox`
 
 > [!IMPORTANT]
-> Debian Bookwork does not work on Gitpod
+> Debian Bookworm does not work on Gitpod
 
 
 ### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)]([template](https://github.com/gbraad-devenv/ubuntu-template)) 22.04/Jammy (LTS)
