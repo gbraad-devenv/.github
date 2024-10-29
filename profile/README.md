@@ -122,9 +122,3 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `ubuenv`, `ubusys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/ubuntu/base:jammy devbox-ubuntu`
 
----
-
-Consider sponsoring me:
-
-| [github](https://github.com/sponsors/gbraad) | [patreon](https://patreon.com/gbraad) | [liberapay](https://liberapay.com/gbraad) | [paypal](https://paypal.me/gbraad) | [buymeacoffee](https://www.buymeacoffee.com/gbraad) |
-|--|--|--|--|--|
