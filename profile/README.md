@@ -139,3 +139,18 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `tumenv`, `tumsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/tumbleweed/base:latest devbox-tumbleweed`
 
+---
+
+## Recommended extensions
+These extensions are recommended for use with these repositories for quick access within Chrome-based browsers and editors.
+
+  * Gitpod
+    - Chrome: https://chromewebstore.google.com/detail/gitpod/dodmmooeoklaejobgleioelladacbeki
+    - Firefox: https://addons.mozilla.org/en-US/firefox/addon/gitpod/
+    - VS Code: https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop
+  * CodeSandbox
+    - Chrome: https://chromewebstore.google.com/detail/codesandbox/hdidglkcgdolpoijdckmafdnddjoglia
+    - FireFox: https://addons.mozilla.org/en-US/firefox/addon/codesandbox/
+    - VS Code: https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects
+  * Tailscale
+    - VS Code: https://marketplace.visualstudio.com/items?itemName=tailscale.vscode-tailscale
