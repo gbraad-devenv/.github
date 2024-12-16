@@ -24,6 +24,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ### [[Fedora](https://github.com/gbraad-devenv/fedora/tree/40)]([template](https://github.com/gbraad-devenv/fedora-template/tree/40)) 40
 
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=40&repo=61788628&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora/tree/40)
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:40 $HOSTNAME-devbox`
 
