@@ -80,7 +80,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ## EL-compatible distributions
 
-### Go Toolset for [[UBI](https://github.com/gbraad-devenv/ubi9-gotoolset)]([template](https://github.com/gbraad-devenv/ubi9-gotoolset-template)) 9, with Go 1.22
+### Go Toolset for [[UBI](https://github.com/gbraad-devenv/ubi9-gotoolset)]([template](https://github.com/gbraad-devenv/ubi9-gotoolset-template)) 9, with Go 1.22.7
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=904026037&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9-gotoolset)
