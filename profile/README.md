@@ -80,12 +80,23 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ## EL-compatible distributions
 
+### Go Toolset for [[UBI](https://github.com/gbraad-devenv/ubi9-gotoolset)]([template](https://github.com/gbraad-devenv/ubi9-gotoolset-template)) 9, with Go 1.22
+
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=904026037&skip_quickstart=true)
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9-gotoolset)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9-gotoolset)
+  * `goenv`, `gosys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/ubi9-gotoolset/dotfiles:1.22.7 --init --name devbox-go`
+
+
 ### Go Toolset for [[UBI](https://github.com/gbraad-devenv/ubi8-gotoolset)]([template](https://github.com/gbraad-devenv/ubi8-gotoolset-template)) 8, with Go 1.20
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi8-gotoolset)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi8-gotoolset)
-  * `goenv`, `gosys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create -i ghcr.io/gbraad-devenv/ubi8-gotoolset/base:1.20 --init --name devbox-go`
+
+> [!NOTE]
+> The image **Go Toolset for UBI 8** is not maintained anymore
 
 
 ### [[UBI](https://github.com/gbraad-devenv/ubi9)]([template](https://github.com/gbraad-devenv/ubi9-template)) 9
