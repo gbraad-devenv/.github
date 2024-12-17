@@ -11,7 +11,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ---
 
-## Fedora and derivatives
+## Fedora
 
 ### [[Fedora](https://github.com/gbraad-devenv/fedora)]([template](https://github.com/gbraad-devenv/fedora-template)) 41
 
@@ -21,6 +21,15 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `devenv` => `defenv`, `defsys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:41 $HOSTNAME-devbox`
 
+
+### Fedora-based [[Jupyter](https://github.com/gbraad-devenv/jupyter-fedora)]([template](https://github.com/gbraad-devenv/jupyter-fedora-template)) notebooks
+
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=724070977&skip_quickstart=true)
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/jupyter-fedora)
+
+---
+
+## Fedora (older releases)
 
 ### [[Fedora](https://github.com/gbraad-devenv/fedora/tree/40)]([template](https://github.com/gbraad-devenv/fedora-template/tree/40)) 40
 
@@ -41,11 +50,6 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:38 $HOSTNAME-devbox`
   * Termux [`./import-devsys.sh`](https://github.com/gbraad-devenv/termux-import/blob/main/import-devsys.sh) https://github.com/gbraad-devenv/fedora/releases/download/38/devsys-fedora-rootfs-arm64.tar.gz
   * WSL2 [`.\import-devsys.ps1`](https://github.com/gbraad-devenv/wsl2-import/blob/main/import-devsys.ps1) https://github.com/gbraad-devenv/fedora/releases/download/38/devsys-fedora-rootfs-amd64.tar.gz
-
-
-### Fedora-based [[Jupyter](https://github.com/gbraad-devenv/jupyter-fedora)]([template](https://github.com/gbraad-devenv/jupyter-fedora-template)) notebooks
-
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/jupyter-fedora)
 
 ---
 
