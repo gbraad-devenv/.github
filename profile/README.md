@@ -22,7 +22,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * [`devbox`](https://github.com/gbraad-devenv/devbox) => `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:41 $HOSTNAME-devbox`
 
 
-### Fedora-based [[Jupyter](https://github.com/gbraad-devenv/jupyter-fedora)]([template](https://github.com/gbraad-devenv/jupyter-fedora-template)) notebooks
+### [[Jupyter](https://github.com/gbraad-devenv/jupyter-fedora)]([template](https://github.com/gbraad-devenv/jupyter-fedora-template)) notebooks on Fedora 41
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=724070977&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/jupyter-fedora)
