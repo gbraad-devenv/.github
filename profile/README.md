@@ -25,8 +25,6 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 ### [[Fedora](https://github.com/gbraad-devenv/fedora-golang)] Golang 41 (with Go 1.23.4)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=914744126&skip_quickstart=true)
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora-golang)
-  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/fedora-golang)
   * `def go run` and `def go sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
 
 
