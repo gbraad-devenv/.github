@@ -13,7 +13,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ## Fedora
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora)]([template](https://github.com/gbraad-devenv/fedora-template)) 41
+### [[Fedora](https://github.com/gbraad-devenv/fedora)] 41
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=61788628&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora)
@@ -22,7 +22,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:41 $HOSTNAME-devbox`
 
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora-golang)] Golang 41, with Go 1.23.4
+### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 41, with Go 1.23.4
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=914744126&skip_quickstart=true)
   * `def go run` and `def go sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
@@ -30,20 +30,20 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ## Fedora (older releases)
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora/tree/40)]([template](https://github.com/gbraad-devenv/fedora-template/tree/40)) 40
+### [[Fedora](https://github.com/gbraad-devenv/fedora/tree/40)] 40
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=40&repo=61788628&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora/tree/40)
   * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:40 $HOSTNAME-devbox`
 
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora/tree/39)]([template](https://github.com/gbraad-devenv/fedora-template/tree/39)) 39
+### [[Fedora](https://github.com/gbraad-devenv/fedora/tree/39)] 39
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora/tree/39)
   * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:39 $HOSTNAME-devbox`
 
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora/tree/38)]([template](https://github.com/gbraad-devenv/fedora-template/tree/38)) 38
+### [[Fedora](https://github.com/gbraad-devenv/fedora/tree/38)] 38
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora/tree/38)
   * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:38 $HOSTNAME-devbox`
@@ -54,7 +54,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ## Debian and derivatives
 
-### [[Debian](https://github.com/gbraad-devenv/debian)]([template](https://github.com/gbraad-devenv/debian-template)) 12/Bookworm
+### [[Debian](https://github.com/gbraad-devenv/debian)] 12/Bookworm
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=636945920)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/debian)
@@ -64,7 +64,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * WSL2 [`.\import-devsys.ps1`](https://github.com/gbraad-devenv/wsl2-import/blob/main/import-devsys.ps1) https://github.com/gbraad-devenv/debian/releases/download/bookworm/devsys-debian-rootfs-amd64.tar.gz
 
 
-### [[Debian](https://github.com/gbraad-devenv/debian/tree/bullseye)]([template](https://github.com/gbraad-devenv/debian-template/tree/bullseye)) 11/Bullseye
+### [[Debian](https://github.com/gbraad-devenv/debian/tree/bullseye)] 11/Bullseye
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/debian/tree/bullseye)
   * `distrobox create --init -i ghcr.io/gbraad-devenv/debian/toolbox:bullseye $HOSTNAME-debbox`
@@ -73,7 +73,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 > Debian Bookworm does not work on Gitpod
 
 
-### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)]([template](https://github.com/gbraad-devenv/ubuntu-template)) 22.04/Jammy (LTS)
+### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)] 22.04/Jammy (LTS)
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubuntu)
@@ -84,7 +84,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ## EL-compatible distributions
 
-### Go Toolset for [[UBI](https://github.com/gbraad-devenv/ubi9-gotoolset)]([template](https://github.com/gbraad-devenv/ubi9-gotoolset-template)) 9, with Go 1.22.7
+### Go Toolset for [[UBI](https://github.com/gbraad-devenv/ubi9-gotoolset)] 9, with Go 1.22.7
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=904026037&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9-gotoolset)
@@ -93,7 +93,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `distrobox create -i ghcr.io/gbraad-devenv/ubi9-gotoolset/dotfiles:1.22.7 --init --name devbox-go`
 
 
-### Go Toolset for [[UBI](https://github.com/gbraad-devenv/ubi8-gotoolset)]([template](https://github.com/gbraad-devenv/ubi8-gotoolset-template)) 8, with Go 1.20
+### Go Toolset for [[UBI](https://github.com/gbraad-devenv/ubi8-gotoolset)] 8, with Go 1.20
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi8-gotoolset)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi8-gotoolset)
@@ -103,14 +103,14 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 > The image **Go Toolset for UBI 8** is not maintained anymore
 
 
-### [[UBI](https://github.com/gbraad-devenv/ubi9)]([template](https://github.com/gbraad-devenv/ubi9-template)) 9
+### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9)
   * `dev ubi env`, `dev ubi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
 
 
-### [[CentOS](https://github.com/gbraad-devenv/centos)]([template](https://github.com/gbraad-devenv/centos-template)) Stream 9
+### [[CentOS](https://github.com/gbraad-devenv/centos)] Stream 9
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/centos)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/centos)
@@ -118,7 +118,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `distrobox create -i ghcr.io/gbraad-devenv/centos/base:stream9 devbox-centos`
 
 
-### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)]([template](https://github.com/gbraad-devenv/almalinux-template)) 9
+### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/almalinux)
@@ -126,7 +126,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `distrobox create -i ghcr.io/gbraad-devenv/almalinux/base:9 devbox-almalinux`
 
 
-### [[RockyLinux](https://github.com/gbraad-devenv/rockylinux)]([template](https://github.com/gbraad-devenv/rockylinux-template)) 9
+### [[RockyLinux](https://github.com/gbraad-devenv/rockylinux)] 9
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/rockylinux)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/rockylinux)
@@ -137,7 +137,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
 
 ## Various distributions
 
-### [[Alpine](https://github.com/gbraad-devenv/alpine)]([template](https://github.com/gbraad-devenv/alpine-template)) 3.18
+### [[Alpine](https://github.com/gbraad-devenv/alpine)] 3.18
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/alpine)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/alpine)
@@ -145,7 +145,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `distrobox create -i ghcr.io/gbraad-devenv/alpine/base:3.18 devbox-alpine`
 
 
-### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)]([template](https://github.com/gbraad-devenv/opensuse-template)) 15.5
+### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)] 15.5
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/opensuse)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/opensuse)
@@ -153,12 +153,15 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `distrobox create -i ghcr.io/gbraad-devenv/opensuse/base:15.2 devbox-opensuse`
 
 
-### [[Tumbleweed](https://github.com/gbraad-devenv/opensuse)]([template](https://github.com/gbraad-devenv/tumbleweed-template)) latest
+### [[Tumbleweed](https://github.com/gbraad-devenv/opensuse)] latest
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/tumbleweed)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/tumbleweed)
   * `dev tum env`, `dev tum sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
   * `distrobox create -i ghcr.io/gbraad-devenv/tumbleweed/base:latest devbox-tumbleweed`
+
+> [!NOTE]
+> These images are not actively maintained
 
 ---
 
