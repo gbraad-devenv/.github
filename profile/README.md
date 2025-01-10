@@ -22,7 +22,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:41 $HOSTNAME-devbox`
 
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora-golang)] Golang 41 (with Go 1.23.4)
+### [[Fedora](https://github.com/gbraad-devenv/fedora-golang)] Golang 41, with Go 1.23.4
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=914744126&skip_quickstart=true)
   * `def go run` and `def go sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
