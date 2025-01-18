@@ -20,7 +20,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/fedora)
   * `dev fed env`, `dev fed sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
   * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:41 $HOSTNAME-devbox`
-  * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora/releases/tag/latest)
+  * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora/releases/tag/41)
 
 
 ### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 41, with Go 1.23.4
