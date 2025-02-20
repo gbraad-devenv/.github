@@ -21,6 +21,7 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * `dev fed env`, `dev fed sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
   * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:41 $HOSTNAME-devbox`
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora/releases/tag/41)
+    * `bootc switch ghcr.io/gbraad-devenv/fedora-golang/systemd-bootc:stream9`
 
 
 ### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 41, with Go 1.23.4
@@ -118,6 +119,14 @@ based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) 
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/centos)
   * `dev cen env`, `dev cen sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
   * `distrobox create -i ghcr.io/gbraad-devenv/centos/base:stream9 devbox-centos`
+
+
+### [[CentOS - Golang](https://github.com/gbraad-devenv/centos-golang)] Stream 9, with Go 1.23.4
+
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936139144&skip_quickstart=true)
+  * `def gocen run` and `def gocen sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/centos-golang/releases/tag/latest)
+    * `bootc switch ghcr.io/gbraad-devenv/centos-golang/systemd-bootc:stream9`
 
 
 ### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9
