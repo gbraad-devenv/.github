@@ -47,18 +47,18 @@ These are my instant development environments that I use for daily coding. This 
 
 ## EL-compatible distributions
 
-### [[UBI9 - Golang](https://github.com/gbraad-devenv/ubi9-golang)], with Go 1.22.9 <span title="Automated build">⚙️</span>
-
-  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936544304&skip_quickstart=true)
-  * `dev gobi env`, `dev gobi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create -i ghcr.io/gbraad-devenv/ubi9-golang/dotfiles:latest --init --name devbox-go`
-
-
 ### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9 <span title="Automated build">⚙️</span>
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9)
   * `dev ubi env`, `dev ubi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+
+
+### [[UBI9 - Golang](https://github.com/gbraad-devenv/ubi9-golang)], with Go 1.22.9 <span title="Automated build">⚙️</span>
+
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936544304&skip_quickstart=true)
+  * `dev gobi env`, `dev gobi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `distrobox create -i ghcr.io/gbraad-devenv/ubi9-golang/dotfiles:latest --init --name devbox-go`
 
 
 ### [[CentOS](https://github.com/gbraad-devenv/centos)] Stream 9 <span title="Automated build">⚙️</span>
