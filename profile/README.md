@@ -109,7 +109,6 @@ These are my instant development environments that I use for daily coding. This 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi8-gotoolset)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi8-gotoolset)
-  * `distrobox create -i ghcr.io/gbraad-devenv/ubi8-gotoolset/base:1.20 --init --name devbox-go`
 
 > [!NOTE]
 > The image **Go Toolset for UBI 8** is not maintained anymore
