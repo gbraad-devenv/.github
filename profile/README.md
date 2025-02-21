@@ -109,7 +109,7 @@ These are my instant development environments that I use for daily coding. This 
 > The image **Go Toolset for UBI 8** is not maintained anymore
 
 
-### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9
+### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9 <span title="Automated build">⚙️</span>
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9)
