@@ -43,6 +43,11 @@ These are my instant development environments that I use for daily coding. This 
   * WSL2 [`.\import-devsys.ps1`](https://github.com/gbraad-devenv/wsl2-import/blob/main/import-devsys.ps1) https://github.com/gbraad-devenv/debian/releases/download/bookworm/devsys-debian-rootfs-amd64.tar.gz
 
 
+### [[Debian - Golang](https://github.com/gbraad-devenv/debian-golang)] 12/Bookworm <span title="Automated build">⚙️</span>
+
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=937007673&skip_quickstart=true)
+  * `dev gode env`, `dev gode sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+
 
 ### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)] 24.04/Noble (LTS) <span title="Automated build">⚙️</span>
 
@@ -51,6 +56,11 @@ These are my instant development environments that I use for daily coding. This 
   * `dev ubu env`, `dev ubu sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
   * `distrobox create -i ghcr.io/gbraad-devenv/ubuntu/rebase:noble devbox-ubuntu`
 
+
+### [[Ubuntu - Golang](https://github.com/gbraad-devenv/ubuntu-golang)] 24.04/Noble (LTS) <span title="Automated build">⚙️</span>
+
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936999963&skip_quickstart=true)
+  * `dev gubu env`, `dev gubu sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
 
 ---
 
