@@ -40,14 +40,6 @@ Archived developer environments
 > [!IMPORTANT]
 > Debian Bookworm does not work on Gitpod
 
-
-### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)] 22.04/Jammy (LTS)
-
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
-  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubuntu)
-  * `dev ubu env`, `dev ubu sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create -i ghcr.io/gbraad-devenv/ubuntu/base:jammy devbox-ubuntu`
-
 ---
 
 ## EL-compatible distributions

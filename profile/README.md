@@ -43,6 +43,15 @@ These are my instant development environments that I use for daily coding. This 
   * WSL2 [`.\import-devsys.ps1`](https://github.com/gbraad-devenv/wsl2-import/blob/main/import-devsys.ps1) https://github.com/gbraad-devenv/debian/releases/download/bookworm/devsys-debian-rootfs-amd64.tar.gz
 
 
+
+### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)] 24.04/Noble (LTS) <span title="Automated build">⚙️</span>
+
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubuntu)
+  * `dev ubu env`, `dev ubu sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `distrobox create -i ghcr.io/gbraad-devenv/ubuntu/rebase:noble devbox-ubuntu`
+
+
 ---
 
 ## EL-compatible distributions
