@@ -10,6 +10,7 @@ These are my instant development environments that I use for daily coding. This 
 
 ---
 
+
 ## Fedora
 
 ### [[Fedora](https://github.com/gbraad-devenv/fedora)] 41 <span title="Automated build">⚙️</span>
@@ -30,6 +31,7 @@ These are my instant development environments that I use for daily coding. This 
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora-golang/releases/tag/latest)
 
 ---
+
 
 ## Debian and derivatives
 
@@ -64,7 +66,24 @@ These are my instant development environments that I use for daily coding. This 
 
 ---
 
+
 ## EL-compatible distributions
+
+### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9 <span title="Automated build">⚙️</span>
+
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/almalinux)
+  * `dev alm env`, `dev alm sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `distrobox create -i ghcr.io/gbraad-devenv/almalinux/rebase:9 devbox-almalinux`
+
+
+### [[AlmaLinux - Golang](https://github.com/gbraad-devenv/almalinux-golang)] 9, with Go 1.23.4 <span title="Automated build">⚙️</span>
+
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=937083584&skip_quickstart=true)
+  * `def goalm run` and `def goalm sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/almalinux-golang/releases/tag/latest)
+    * `bootc switch ghcr.io/gbraad-devenv/almalinux-golang/systemd-bootc:9`
+
 
 ### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9 <span title="Automated build">⚙️</span>
 

@@ -10,7 +10,6 @@ Archived developer environments
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora/tree/40)
   * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:40 $HOSTNAME-devbox`
 
-
 > [!NOTE]
 > EL10 was forked from Fedora 40
 
@@ -28,6 +27,7 @@ Archived developer environments
   * Termux [`./import-devsys.sh`](https://github.com/gbraad-devenv/termux-import/blob/main/import-devsys.sh) https://github.com/gbraad-devenv/fedora/releases/download/38/devsys-fedora-rootfs-arm64.tar.gz
   * WSL2 [`.\import-devsys.ps1`](https://github.com/gbraad-devenv/wsl2-import/blob/main/import-devsys.ps1) https://github.com/gbraad-devenv/fedora/releases/download/38/devsys-fedora-rootfs-amd64.tar.gz
 
+
 ---
 
 ## Debian and derivatives
@@ -39,6 +39,7 @@ Archived developer environments
 
 > [!IMPORTANT]
 > Debian Bookworm does not work on Gitpod
+
 
 ---
 
@@ -60,13 +61,6 @@ Archived developer environments
 > [!NOTE]
 > The image **Go Toolset for UBI 8** is not maintained anymore
 
-### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9
-
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
-  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/almalinux)
-  * `dev alm env`, `dev alm sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create -i ghcr.io/gbraad-devenv/almalinux/base:9 devbox-almalinux`
-
 
 ### [[RockyLinux](https://github.com/gbraad-devenv/rockylinux)] 9
 
@@ -74,6 +68,10 @@ Archived developer environments
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/rockylinux)
   * `dev roc env`, `dev roc sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
   * `distrobox create -i ghcr.io/gbraad-devenv/rockylinux/base:9 devbox-rockylinux`
+
+> [!NOTE]
+> Unlikely I will spend time on updating this image
+
 
 ---
 
