@@ -89,21 +89,7 @@ These are my instant development environments that I use for daily coding. This 
     * `bootc switch ghcr.io/gbraad-devenv/almalinux-golang/systemd-bootc:9`
 
 
-### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9 <span title="Automated build">⚙️</span>
-
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9)
-  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9)
-  * `dev ubi env`, `dev ubi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-
-
-### [[UBI9 - Golang](https://github.com/gbraad-devenv/ubi9-golang)], with Go 1.22.9 <span title="Automated build">⚙️</span>
-
-  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936544304&skip_quickstart=true)
-  * `dev gobi env`, `dev gobi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create -i ghcr.io/gbraad-devenv/ubi9-golang/dotfiles:latest --init --name devbox-go`
-
-
-### [[CentOS](https://github.com/gbraad-devenv/centos)] Stream 9 <span title="Automated build">⚙️</span>
+### [[CentOS](https://github.com/gbraad-devenv/centos)] Stream 9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers-bootc.yml)</span>
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/centos)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/centos)
@@ -111,13 +97,26 @@ These are my instant development environments that I use for daily coding. This 
   * `distrobox create -i ghcr.io/gbraad-devenv/centos/base:stream9 devbox-centos`
 
 
-### [[CentOS - Golang](https://github.com/gbraad-devenv/centos-golang)] Stream 9, with Go 1.23.4 <span title="Automated build">⚙️</span>
+### [[CentOS - Golang](https://github.com/gbraad-devenv/centos-golang)] Stream 9, with Go 1.23.4 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers-bootc.yml)</span>
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936139144&skip_quickstart=true)
   * `def gocen run` and `def gocen sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/centos-golang/releases/tag/latest)
     * `bootc switch ghcr.io/gbraad-devenv/centos-golang/systemd-bootc:stream9`
 
+
+### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/ubi9/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubi9/actions/workflows/build-containers.yml)</span>
+
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9)
+  * `dev ubi env`, `dev ubi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+
+
+### [[UBI9 - Golang](https://github.com/gbraad-devenv/ubi9-golang)], with Go 1.22.9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/ubi9-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubi9-golang/actions/workflows/build-containers.yml)</span>
+
+  * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936544304&skip_quickstart=true)
+  * `dev gobi env`, `dev gobi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `distrobox create -i ghcr.io/gbraad-devenv/ubi9-golang/dotfiles:latest --init --name devbox-go`
 
 ---
 
