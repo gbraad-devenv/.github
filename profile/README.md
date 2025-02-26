@@ -72,7 +72,8 @@ These are my instant development environments that I use for daily coding. This 
 
 ## EL-compatible distributions
 
-### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9 <span title="Automated build">⚙️</span>
+### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml)</span>
+
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/almalinux)
@@ -80,7 +81,7 @@ These are my instant development environments that I use for daily coding. This 
   * `distrobox create -i ghcr.io/gbraad-devenv/almalinux/rebase:9 devbox-almalinux`
 
 
-### [[AlmaLinux - Golang](https://github.com/gbraad-devenv/almalinux-golang)] 9, with Go 1.22.9 <span title="Automated build">⚙️</span>
+### [[AlmaLinux - Golang](https://github.com/gbraad-devenv/almalinux-golang)] 9, with Go 1.22.9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers-bootc.yml)</span>
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=937083584&skip_quickstart=true)
   * `def goalm run` and `def goalm sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
