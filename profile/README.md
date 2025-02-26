@@ -125,7 +125,7 @@ These are my instant development environments that I use for daily coding. This 
 ---
 
 ## Recommended extensions
-These extensions are recommended for use with these repositories for quick access within Chrome-based browsers and editors.
+These extensions are recommended for use with these repositories for quick access within browsers and editors.
 
   * Gitpod
     - [Chrome extension](https://chromewebstore.google.com/detail/gitpod/dodmmooeoklaejobgleioelladacbeki)
