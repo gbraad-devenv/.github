@@ -128,12 +128,12 @@ These are my instant development environments that I use for daily coding. This 
 These extensions are recommended for use with these repositories for quick access within Chrome-based browsers and editors.
 
   * Gitpod
-    - Chrome: https://chromewebstore.google.com/detail/gitpod/dodmmooeoklaejobgleioelladacbeki
-    - Firefox: https://addons.mozilla.org/en-US/firefox/addon/gitpod/
-    - VS Code: https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop
+    - [Chrome extension](https://chromewebstore.google.com/detail/gitpod/dodmmooeoklaejobgleioelladacbeki)
+    - [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/gitpod/)
+    - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop)
   * CodeSandbox
-    - Chrome: https://chromewebstore.google.com/detail/codesandbox/hdidglkcgdolpoijdckmafdnddjoglia
-    - FireFox: https://addons.mozilla.org/en-US/firefox/addon/codesandbox/
-    - VS Code: https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects
+    - [Chrome extension](https://chromewebstore.google.com/detail/codesandbox/hdidglkcgdolpoijdckmafdnddjoglia)
+    - [FireFox extension](https://addons.mozilla.org/en-US/firefox/addon/codesandbox/)
+    - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects)
   * Tailscale
-    - VS Code: https://marketplace.visualstudio.com/items?itemName=tailscale.vscode-tailscale
+    - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=tailscale.vscode-tailscale)
