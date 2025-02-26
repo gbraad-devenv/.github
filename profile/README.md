@@ -71,7 +71,7 @@ These are my instant development environments that I use for daily coding. This 
 
 ## EL-compatible distributions
 
-### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml)</span> <span>[![build diskimages (bootc)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-diskimages-release.yml)</span>
+### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml)</span> <span>[![build diskimages (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-diskimages-release.yml)</span>
 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
