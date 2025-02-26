@@ -13,7 +13,7 @@ These are my instant development environments that I use for daily coding. This 
 
 ## Fedora
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora)] 41 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/fedora/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-containers-bootc.yml)</span> <span>[![build diskimages (bootc) - release](https://github.com/gbraad-devenv/fedora/actions/workflows/build-diskimages-release.yaml/badge.svg)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-diskimages-release.yaml)</span>
+### [[Fedora](https://github.com/gbraad-devenv/fedora)] 41 [⚙️](https://github.com/gbraad-devenv/fedora/actions) [![build containers](https://github.com/gbraad-devenv/fedora/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc) - release](https://github.com/gbraad-devenv/fedora/actions/workflows/build-diskimages-release.yaml/badge.svg)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-diskimages-release.yaml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=61788628&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora)
@@ -24,7 +24,7 @@ These are my instant development environments that I use for daily coding. This 
     * `bootc switch ghcr.io/gbraad-devenv/fedora-golang/systemd-bootc:stream9`
 
 
-### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 41, with Go 1.23.4 <span title="Automated build">⚙️</span>[![build containers](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers-bootc.yml)<span> <span>[![build diskimages (bootc)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-diskimages-release.yml)</span>
+### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 41, with Go 1.23.4 [⚙️](https://github.com/gbraad-devenv/fedora-golang/actions) [![build containers](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-diskimages-release.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=914744126&skip_quickstart=true)
   * `def go run` and `def go sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
@@ -35,7 +35,7 @@ These are my instant development environments that I use for daily coding. This 
 
 ## Debian and derivatives
 
-### [[Debian](https://github.com/gbraad-devenv/debian)] 12/Bookworm <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/debian/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/debian/actions/workflows/build-containers.yml)</span>
+### [[Debian](https://github.com/gbraad-devenv/debian)] 12/Bookworm [⚙️](https://github.com/gbraad-devenv/debian/actions) [![build containers](https://github.com/gbraad-devenv/debian/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/debian/actions/workflows/build-containers.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=636945920)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/debian)
@@ -45,14 +45,14 @@ These are my instant development environments that I use for daily coding. This 
   * WSL2 [`.\import-devsys.ps1`](https://github.com/gbraad-devenv/wsl2-import/blob/main/import-devsys.ps1) https://github.com/gbraad-devenv/debian/releases/download/bookworm/devsys-debian-rootfs-amd64.tar.gz
 
 
-### [[Debian - Golang](https://github.com/gbraad-devenv/debian-golang)] 12/Bookworm <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/debian-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/debian-golang/actions/workflows/build-containers.yml)</span>
+### [[Debian - Golang](https://github.com/gbraad-devenv/debian-golang)] 12/Bookworm [⚙️](https://github.com/gbraad-devenv/debian-golang/actions) [![build containers](https://github.com/gbraad-devenv/debian-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/debian-golang/actions/workflows/build-containers.yml)
 
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=937007673&skip_quickstart=true)
   * `dev gode env`, `dev gode sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
 
 
-### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)] 24.04/Noble (LTS) <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/ubuntu/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubuntu/actions/workflows/build-containers.yml)</span>
+### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)] 24.04/Noble (LTS) [⚙️](https://github.com/gbraad-devenv/ubuntu/actions) [![build containers](https://github.com/gbraad-devenv/ubuntu/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubuntu/actions/workflows/build-containers.yml)
 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
@@ -61,7 +61,7 @@ These are my instant development environments that I use for daily coding. This 
   * `distrobox create -i ghcr.io/gbraad-devenv/ubuntu/rebase:noble devbox-ubuntu`
 
 
-### [[Ubuntu - Golang](https://github.com/gbraad-devenv/ubuntu-golang)] 24.04/Noble (LTS) <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/ubuntu-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubuntu-golang/actions/workflows/build-containers.yml)</span>
+### [[Ubuntu - Golang](https://github.com/gbraad-devenv/ubuntu-golang)] 24.04/Noble (LTS) [⚙️](https://github.com/gbraad-devenv/ubuntu-golang/actions) [![build containers](https://github.com/gbraad-devenv/ubuntu-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubuntu-golang/actions/workflows/build-containers.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936999963&skip_quickstart=true)
   * `dev gubu env`, `dev gubu sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
@@ -71,7 +71,7 @@ These are my instant development environments that I use for daily coding. This 
 
 ## EL-compatible distributions
 
-### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml)</span> <span>[![build diskimages (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-diskimages-release.yml)</span>
+### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9 [⚙️](https://github.com/gbraad-devenv/almalinux/actions) [![build containers](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-diskimages-release.yml)
 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
@@ -80,7 +80,7 @@ These are my instant development environments that I use for daily coding. This 
   * `distrobox create -i ghcr.io/gbraad-devenv/almalinux/rebase:9 devbox-almalinux`
 
 
-### [[AlmaLinux - Golang](https://github.com/gbraad-devenv/almalinux-golang)] 9, with Go 1.22.9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers-bootc.yml)</span> <span>[![build diskimages (bootc)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-diskimages-release.yml)</span>
+### [[AlmaLinux - Golang](https://github.com/gbraad-devenv/almalinux-golang)] 9, with Go 1.22.9 [⚙️](https://github.com/gbraad-devenv/almalinux-golang/actions) [![build containers](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-diskimages-release.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=937083584&skip_quickstart=true)
   * `def goalm run` and `def goalm sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
@@ -88,7 +88,7 @@ These are my instant development environments that I use for daily coding. This 
     * `bootc switch ghcr.io/gbraad-devenv/almalinux-golang/systemd-bootc:9`
 
 
-### [[CentOS](https://github.com/gbraad-devenv/centos)] Stream 9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers-bootc.yml)</span> <span>[![build diskimages (bootc) - release](https://github.com/gbraad-devenv/centos/actions/workflows/build-diskimages-release.yaml/badge.svg)](https://github.com/gbraad-devenv/centos/actions/workflows/build-diskimages-release.yaml)</span>
+### [[CentOS](https://github.com/gbraad-devenv/centos)] Stream 9 [⚙️](https://github.com/gbraad-devenv/centos/actions) [![build containers](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/centos/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc) - release](https://github.com/gbraad-devenv/centos/actions/workflows/build-diskimages-release.yaml/badge.svg)](https://github.com/gbraad-devenv/centos/actions/workflows/build-diskimages-release.yaml)
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/centos)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/centos)
@@ -96,7 +96,7 @@ These are my instant development environments that I use for daily coding. This 
   * `distrobox create -i ghcr.io/gbraad-devenv/centos/base:stream9 devbox-centos`
 
 
-### [[CentOS - Golang](https://github.com/gbraad-devenv/centos-golang)] Stream 9, with Go 1.23.4 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers-bootc.yml)</span> <span>[![build diskimages (bootc)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-diskimages.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-diskimages.yml)</span>
+### [[CentOS - Golang](https://github.com/gbraad-devenv/centos-golang)] Stream 9, with Go 1.23.4 [⚙️](https://github.com/gbraad-devenv/centos-golang/actions) [![build containers](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-diskimages.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-diskimages.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936139144&skip_quickstart=true)
   * `def gocen run` and `def gocen sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
@@ -104,14 +104,14 @@ These are my instant development environments that I use for daily coding. This 
     * `bootc switch ghcr.io/gbraad-devenv/centos-golang/systemd-bootc:stream9`
 
 
-### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/ubi9/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubi9/actions/workflows/build-containers.yml)</span>
+### [[UBI](https://github.com/gbraad-devenv/ubi9)] 9 [⚙️](https://github.com/gbraad-devenv/ubi9/actions) [![build containers](https://github.com/gbraad-devenv/ubi9/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubi9/actions/workflows/build-containers.yml)
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9)
   * `dev ubi env`, `dev ubi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
 
 
-### [[UBI9 - Golang](https://github.com/gbraad-devenv/ubi9-golang)], with Go 1.22.9 <span title="Automated build">⚙️</span> <span>[![build containers](https://github.com/gbraad-devenv/ubi9-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubi9-golang/actions/workflows/build-containers.yml)</span>
+### [[UBI9 - Golang](https://github.com/gbraad-devenv/ubi9-golang)], with Go 1.22.9 [⚙️](https://github.com/gbraad-devenv/ubi9-golang/actions) [![build containers](https://github.com/gbraad-devenv/ubi9-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubi9-golang/actions/workflows/build-containers.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936544304&skip_quickstart=true)
   * `dev gobi env`, `dev gobi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
