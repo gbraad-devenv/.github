@@ -1,5 +1,5 @@
-Gerard Braad's instant development environment containers
-=========================================================
+Gerard Braad's instant development environments
+===============================================
 
 !["Prompt"](https://raw.githubusercontent.com/gbraad/assets/gh-pages/icons/prompt-icon-64.png)
 
