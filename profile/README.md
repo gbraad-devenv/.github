@@ -18,8 +18,8 @@ These are my instant development environments that I use for daily coding. This 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=61788628&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/fedora)
-  * `dev fed env`, `dev fed sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create --init -i ghcr.io/gbraad-devenv/fedora/toolbox:41 $HOSTNAME-devbox`
+  * `devenv fedora env`, `dev fedora start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox fedora start`
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora/releases/tag/41)
     * `bootc switch ghcr.io/gbraad-devenv/fedora-golang/systemd-bootc:stream9`
 
@@ -27,7 +27,7 @@ These are my instant development environments that I use for daily coding. This 
 ### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 41, with Go 1.23.4 [⚙️](https://github.com/gbraad-devenv/fedora-golang/actions) [![build containers](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-diskimages.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-diskimages.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=914744126&skip_quickstart=true)
-  * `def go run` and `def go sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `devenv gofedora env` and `devenv gofedora start` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora-golang/releases/tag/latest)
 
 ---
@@ -39,8 +39,8 @@ These are my instant development environments that I use for daily coding. This 
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=636945920)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/debian)
-  * `dev deb env`, `dev deb sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create --init -i ghcr.io/gbraad-devenv/debian/toolbox:bookworm $HOSTNAME-debbox`
+  * `devenv debian env`, `devenv debian start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox debian`
   * Termux [`./import-devsys.sh`](https://github.com/gbraad-devenv/termux-import/blob/main/import-devsys.sh) https://github.com/gbraad-devenv/debian/releases/download/bookworm/devsys-debian-rootfs-arm64.tar.gz
   * WSL2 [`.\import-devsys.ps1`](https://github.com/gbraad-devenv/wsl2-import/blob/main/import-devsys.ps1) https://github.com/gbraad-devenv/debian/releases/download/bookworm/devsys-debian-rootfs-amd64.tar.gz
 
@@ -49,7 +49,7 @@ These are my instant development environments that I use for daily coding. This 
 
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=937007673&skip_quickstart=true)
-  * `dev gode env`, `dev gode sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devenv godebian env`, `devenv godebian start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
 
 
 ### [[Ubuntu](https://github.com/gbraad-devenv/ubuntu)] 24.04/Noble (LTS) [⚙️](https://github.com/gbraad-devenv/ubuntu/actions) [![build containers](https://github.com/gbraad-devenv/ubuntu/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubuntu/actions/workflows/build-containers.yml)
@@ -57,14 +57,14 @@ These are my instant development environments that I use for daily coding. This 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubuntu)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubuntu)
-  * `dev ubu env`, `dev ubu sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create -i ghcr.io/gbraad-devenv/ubuntu/rebase:noble devbox-ubuntu`
+  * `devenv ubuntu env`, `devenv ubuntu start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox ubuntu start`
 
 
 ### [[Ubuntu - Golang](https://github.com/gbraad-devenv/ubuntu-golang)] 24.04/Noble (LTS) [⚙️](https://github.com/gbraad-devenv/ubuntu-golang/actions) [![build containers](https://github.com/gbraad-devenv/ubuntu-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubuntu-golang/actions/workflows/build-containers.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936999963&skip_quickstart=true)
-  * `dev gubu env`, `dev gubu sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devenv goubuntu env`, `devenv goubuntu start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
 
 ---
 
@@ -76,14 +76,14 @@ These are my instant development environments that I use for daily coding. This 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/almalinux)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/almalinux)
-  * `dev alm env`, `dev alm sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create -i ghcr.io/gbraad-devenv/almalinux/rebase:9 devbox-almalinux`
+  * `devenv alma env`, `devenv alma start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox alma start`
 
 
 ### [[AlmaLinux - Golang](https://github.com/gbraad-devenv/almalinux-golang)] 9, with Go 1.22.9 [⚙️](https://github.com/gbraad-devenv/almalinux-golang/actions) [![build containers](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux-golang/actions/workflows/build-diskimages-release.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=937083584&skip_quickstart=true)
-  * `def goalm run` and `def goalm sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `devenv goalma env` and `devenv goalma start` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/almalinux-golang/releases/tag/latest)
     * `bootc switch ghcr.io/gbraad-devenv/almalinux-golang/systemd-bootc:9`
 
@@ -92,14 +92,14 @@ These are my instant development environments that I use for daily coding. This 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/centos)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/centos)
-  * `dev cen env`, `dev cen sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create -i ghcr.io/gbraad-devenv/centos/base:stream9 devbox-centos`
+  * `devenv centos env`, `dev centos start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox centos start`
 
 
 ### [[CentOS - Golang](https://github.com/gbraad-devenv/centos-golang)] Stream 9, with Go 1.23.4 [⚙️](https://github.com/gbraad-devenv/centos-golang/actions) [![build containers](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-diskimages.yml/badge.svg)](https://github.com/gbraad-devenv/centos-golang/actions/workflows/build-diskimages.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936139144&skip_quickstart=true)
-  * `def gocen run` and `def gocen sys` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
+  * `devenv gocentos env` and `devenv gocentos start` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/centos-golang/releases/tag/latest)
     * `bootc switch ghcr.io/gbraad-devenv/centos-golang/systemd-bootc:stream9`
 
@@ -108,14 +108,14 @@ These are my instant development environments that I use for daily coding. This 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/ubi9)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/ubi9)
-  * `dev ubi env`, `dev ubi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devenv ubi9 env`, `devenv ubi9 start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
 
 
 ### [[UBI9 - Golang](https://github.com/gbraad-devenv/ubi9-golang)], with Go 1.22.9 [⚙️](https://github.com/gbraad-devenv/ubi9-golang/actions) [![build containers](https://github.com/gbraad-devenv/ubi9-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/ubi9-golang/actions/workflows/build-containers.yml)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=936544304&skip_quickstart=true)
-  * `dev gobi env`, `dev gobi sys` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `distrobox create -i ghcr.io/gbraad-devenv/ubi9-golang/dotfiles:latest --init --name devbox-go`
+  * `devenv goubi env`, `devenv goubi start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox goubi start`
 
 ---
 
