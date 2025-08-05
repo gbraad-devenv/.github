@@ -21,7 +21,8 @@ These are my instant development environments that I use for daily coding. This 
   * `devenv fedora env`, `devenv fedora start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
   * `devbox fedora start`
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora/releases/tag/41)
-    * `bootc switch ghcr.io/gbraad-devenv/fedora-golang/systemd-bootc:41`
+    * `bootc switch ghcr.io/gbraad-devenv/fedora/systemd-bootc:41`
+    * `machine systemd switch`
 
 
 ### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 41, with Go 1.23.4 [⚙️](https://github.com/gbraad-devenv/fedora-golang/actions) [![build containers](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-diskimages.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-diskimages.yml)
@@ -29,6 +30,8 @@ These are my instant development environments that I use for daily coding. This 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=914744126&skip_quickstart=true)
   * `devenv gofedora env`, `devenv gofedora start` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora-golang/releases/tag/latest)
+    * `bootc switch ghcr.io/gbraad-devenv/fedora-golang/systemd-bootc:41`
+    * `machine golang switch`
 
 ---
 
