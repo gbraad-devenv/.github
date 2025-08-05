@@ -6,7 +6,7 @@ Gerard Braad's Instant Development Environments
 These are my instant development environments that I use for daily coding. This was originally based on C9 IDE, [published as an image](https://hub.docker.com/r/gbraad/c9ide) that got pulled over 1M+ times, and here is the article that described [how to setup a powerful self-hosted IDE in the cloud](https://gbraad.nl/blog/setting-up-a-powerful-self-hosted-ide-in-the-cloud.html). Now I focus on a reusable environment that can either be used from the command line, as a container, online deployment, editing with Vim, or easily allows you to use VSCode. But not limited to direct access, as it includes [Tailscale](https://tailscale.com) to allow [remote connectivity](https://github.com/spotsnel/tailscale-tailwings) and exposing services to other (shared) machines in the same tailnet or on the [public internet](https://tailscale.com/kb/1247/funnel-serve-use-cases/). These images are compatible with [Distrobox](https://github.com/89luca89/distrobox) and perhaps [Toolbx](https://containertoolbx.org/) (since these images rely on `sudo` there are known issues/rough edges), and can be imported to [WSL2](https://github.com/gbraad-devenv/WSL2-import) (Windows) and [Termux](https://github.com/gbraad-devenv/termux-import) (Android).
 
 > [!NOTE]
-> All images use `Gerard` as user and have [my dotfiles](https://github.com/gbraad-dotfiles/) installed. Those that are used can be listed using `devini --list`.
+> All images use `gbraad` as user and have [my dotfiles](https://github.com/gbraad-dotfiles/) installed. Those that are used can be listed using `devini --list`.
 
 ---
 
@@ -130,13 +130,9 @@ These are my instant development environments that I use for daily coding. This 
 ## Recommended extensions
 These extensions are recommended for use with these repositories for quick access within browsers and editors.
 
-  * Gitpod
-    - [Chrome extension](https://chromewebstore.google.com/detail/gitpod/dodmmooeoklaejobgleioelladacbeki)
-    - [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/gitpod/)
-    - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=gitpod.gitpod-desktop)
-  * CodeSandbox
-    - [Chrome extension](https://chromewebstore.google.com/detail/codesandbox/hdidglkcgdolpoijdckmafdnddjoglia)
-    - [FireFox extension](https://addons.mozilla.org/en-US/firefox/addon/codesandbox/)
-    - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects)
+  * Dotfiles Tools
+    - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=gbraad.dotfiles-tools) 
+  * Systemd Universal Manager
+    - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=gbraad.systemd-universal-manager)
   * Tailscale
     - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=tailscale.vscode-tailscale)
