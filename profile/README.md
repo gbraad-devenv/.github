@@ -17,7 +17,7 @@ These are my instant development environments that I use for daily coding. This 
 
   * Containers and devcontainers
     * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=61788628&skip_quickstart=true)
-    * `devenvdevfedora ephemeral`, `devenv devfedora start` or `devenv ... from devfedora` in [my dotfiles](https://github.com/gbraad-dotfiles/)
+    * `devenv devfedora ephemeral`, `devenv devfedora start` or `devenv ... from devfedora` in [my dotfiles](https://github.com/gbraad-dotfiles/)
     * `devbox devfedora start`, distrobox wrapper
   * Bootable Container (bootc) disk images
     * `bootc switch ghcr.io/gbraad-devenv/fedora/base-bootc:42`
