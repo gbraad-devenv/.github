@@ -18,12 +18,12 @@ These are my instant development environments that I use for daily coding. This 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=61788628&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/fedora)
-  * `devenv devfedora env`, `devenv fedora start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `devbox devfedora start`
-  * `machine devfedora-cloud start`
+  * `devenv devfedora ephemeral`, `devenv devfedora start` or `devenv ... from devfedora` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `machine devfedora-cloud start` or `machine ... from devfedora-cloud`
+  * `devbox devfedora start`, distrobox wrapper
   * Bootable Container (bootc) [disk images](https://github.com/gbraad-devenv/fedora/releases/tag/42)
     * `bootc switch ghcr.io/gbraad-devenv/fedora/base-bootc:42`
-    * `machine dotfedora switch devfedora`
+    * `machine dotfedora-bootc switch devfedora`
     * `machine devfedora-bootc`
 
 
