@@ -13,7 +13,7 @@ These are my instant development environments that I use for daily coding. This 
 
 ## Fedora
 
-### [[Fedora](https://github.com/gbraad-devenv/fedora)] 41 [⚙️](https://github.com/gbraad-devenv/fedora/actions) [![build process](https://github.com/gbraad-devenv/fedora/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-process.yml)
+### [[Fedora](https://github.com/gbraad-devenv/fedora)] 41 [⚙️](https://github.com/gbraad-devenv/fedora/actions) [![build process](https://github.com/gbraad-devenv/fedora/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/fedora/actions/workflows/build-process.yml) (containers, bootable containers and cloud images)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=61788628&skip_quickstart=true)
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/fedora)
