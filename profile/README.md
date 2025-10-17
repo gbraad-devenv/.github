@@ -27,7 +27,7 @@ These are my instant development environments that I use for daily coding. This 
     * `machine devfedora-cloud start` or `machine ... from devfedora-cloud`
 
 
-### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 42, with Go 1.23.4 [⚙️](https://github.com/gbraad-devenv/fedora-golang/actions) [![build process](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-process.yml) (containers, bootable containers and cloud images)
+### [[Fedora - Golang](https://github.com/gbraad-devenv/fedora-golang)] 42, with go1.24.8 [⚙️](https://github.com/gbraad-devenv/fedora-golang/actions) [![build process](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-golang/actions/workflows/build-process.yml) (containers, bootable containers and cloud images)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=914744126&skip_quickstart=true)
   * `devenv gofedora env`, `devenv gofedora start` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
@@ -38,7 +38,7 @@ These are my instant development environments that I use for daily coding. This 
     * `machine gofedora-cloud start` or `machine ... from gofedora-cloud`
 
 
-### [[Fedora - Rust]()] 42, with rustc [⚙️](https://github.com/gbraad-devenv/fedora-rust/actions) [![build process](https://github.com/gbraad-devenv/fedora-rust/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-rust/actions/workflows/build-process.yml) (containers, bootable containers and cloud images)
+### [[Fedora - Rust]()] 42, with rustc 1.90.0 [⚙️](https://github.com/gbraad-devenv/fedora-rust/actions) [![build process](https://github.com/gbraad-devenv/fedora-rust/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/fedora-rust/actions/workflows/build-process.yml) (containers, bootable containers and cloud images)
 
   * Open in [GitHub Codespaces](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=1064105635&skip_quickstart=true)
   * `devenv rustfedora env`, `devenv rustfedora start` in [my dotfiles](https://github.com/gbraad/dotfiles/blob/main/zsh/.zshrc.d/devenv.zsh)
