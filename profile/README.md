@@ -51,6 +51,7 @@ These are my instant development environments that I use for daily coding. This 
 
 ### [[Fedora - Android]()] 🚧
 
+### [[Fedora - MinGW]()] 🚧
 
 ---
 
