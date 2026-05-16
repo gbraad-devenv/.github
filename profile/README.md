@@ -92,6 +92,17 @@ These are my instant development environments that I use for daily coding. This 
 ---
 
 
+### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)] Tumbleweed [⚙️](https://github.com/gbraad-devenv/opensuse/actions) [![build containers](https://github.com/gbraad-devenv/opensuse/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/opensuse/actions/workflows/build-containers.yml)
+
+
+  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/opensuse)
+  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/opensuse)
+  * `devenv opensuse env`, `devenv opensuse start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox opensuse start`
+
+
+---
+
 ## EL-compatible distributions
 
 ### [[AlmaLinux](https://github.com/gbraad-devenv/almalinux)] 9 [⚙️](https://github.com/gbraad-devenv/almalinux/actions) [![build containers](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers.yml) [![build containers (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-containers-bootc.yml) [![build diskimages (bootc)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-diskimages-release.yml/badge.svg)](https://github.com/gbraad-devenv/almalinux/actions/workflows/build-diskimages-release.yml)
