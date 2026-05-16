@@ -94,11 +94,15 @@ These are my instant development environments that I use for daily coding. This 
 
 ### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)] Tumbleweed [⚙️](https://github.com/gbraad-devenv/opensuse/actions) [![build process](https://github.com/gbraad-devenv/opensuse/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/opensuse/actions/workflows/build-process.yml) (containers, and cloud images)
 
-
-  * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/opensuse)
-  * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/opensuse)
   * `devenv devopensuse env`, `devenv devopensuse start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
   * `devbox devopensuse start`
+
+
+### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse-golang)] Tumbleweed with Golang [⚙️](https://github.com/gbraad-devenv/opensuse-golang/actions) [![build process](https://github.com/gbraad-devenv/opensuse-golang/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/opensuse-golang/actions/workflows/build-process.yml) (containers, and cloud images)
+
+  * `devenv goopensuse env`, `devenv goopensuse start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox goopensuse start`
+
 
 
 ---
