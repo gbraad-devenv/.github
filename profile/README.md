@@ -97,8 +97,8 @@ These are my instant development environments that I use for daily coding. This 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/opensuse)
   * Open in [CodeSandbox](https://codesandbox.io/p/github/gbraad-devenv/opensuse)
-  * `devenv opensuse env`, `devenv opensuse start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
-  * `devbox opensuse start`
+  * `devenv devopensuse env`, `devenv devopensuse start` in [my dotfiles](https://github.com/gbraad/dotfiles/)
+  * `devbox devopensuse start`
 
 
 ---
