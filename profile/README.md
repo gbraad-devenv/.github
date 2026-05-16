@@ -92,7 +92,7 @@ These are my instant development environments that I use for daily coding. This 
 ---
 
 
-### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)] Tumbleweed [⚙️](https://github.com/gbraad-devenv/opensuse/actions) [![build containers](https://github.com/gbraad-devenv/opensuse/actions/workflows/build-containers.yml/badge.svg)](https://github.com/gbraad-devenv/opensuse/actions/workflows/build-containers.yml)
+### [[OpenSUSE](https://github.com/gbraad-devenv/opensuse)] Tumbleweed [⚙️](https://github.com/gbraad-devenv/opensuse/actions) [![build process](https://github.com/gbraad-devenv/opensuse/actions/workflows/build-process.yml/badge.svg)](https://github.com/gbraad-devenv/opensuse/actions/workflows/build-process.yml) (containers, and cloud images)
 
 
   * Open in [Gitpod workspace](https://gitpod.io/#https://github.com/gbraad-devenv/opensuse)
